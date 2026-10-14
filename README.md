@@ -11,7 +11,7 @@ Chaque projet ci-dessous est testé, mesuré, et documente honnêtement ses limi
 
 | Projet | Ce qu'il fait | Résultat clé |
 |---|---|---|
-| [**rag-redteam-framework**](https://github.com/FatimaZahraRH/RAG-redteam-framework-) | Attaque puis défend un système RAG : injections de prompt directes, indirectes, obfusquées et multi-tours, détecteur hybride règles + ML | Taux de succès des attaques **93,8 % → 6,2 %** |
+| [**rag-redteam-framework**](https://github.com/FatimaZahraRH/RAG-redteam-framework) | Attaque puis défend un système RAG : injections de prompt directes, indirectes, obfusquées et multi-tours, détecteur hybride règles + ML | Taux de succès des attaques **93,8 % → 6,2 %** |
 | [**ci-agent-security-harness**](https://github.com/FatimaZahraRH/ci-agent-security-harness) | Teste un agent IA branché sur un pipeline CI/CD face à 6 injections indirectes cachées dans des issues, commentaires et logs | Taux de succès des attaques **100 % → 0 %** en 3 niveaux de garde-fous |
 
 ### Sécurité système et vérification formelle
