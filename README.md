@@ -1,8 +1,8 @@
-## Bonjour, je suis Fatima-Zahra 👋
+## Bonjour, je suis Fatima-Zahra 
 
 Élève ingénieure en cybersécurité à **Télécom SudParis**. Je travaille à la frontière entre **sécurité des systèmes** et **IA** : sécuriser les applications à base de LLM, et utiliser les LLM pour automatiser la défense.
 
-🎯 Je recherche un **stage de fin d'études en cybersécurité** (2027).
+ Je recherche un **stage de fin d'études en cybersécurité** (2027).
 
 ---
 
@@ -25,4 +25,4 @@
 - **IA et données** : RAG, ChromaDB, scikit-learn, évaluation ROC / indice de Youden
 - **Développement** : Python, FastAPI, pytest, Linux
 
-<!-- Ajouter ici : [LinkedIn](https://www.linkedin.com/in/...) -->
+https://www.linkedin.com/in/fatima-zahra-rhoulam-25fzrh2004/?isSelfProfile=true
