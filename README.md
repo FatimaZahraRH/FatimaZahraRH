@@ -26,12 +26,13 @@ Chaque projet ci-dessous s'inspire de travaux de recherche récents, est testé 
 | [**rag-redteam-framework**](https://github.com/FatimaZahraRH/RAG-redteam-framework) | Attaque puis défend un système RAG : injections de prompt directes, indirectes, obfusquées et multi-tours, détecteur hybride règles + ML | Taux de succès des attaques **93,8 % → 6,2 %** |
 | [**ci-agent-security-harness**](https://github.com/FatimaZahraRH/ci-agent-security-harness) | Teste un agent IA branché sur un pipeline CI/CD face à 6 injections indirectes cachées dans des issues, commentaires et logs | Taux de succès des attaques **100 % → 0 %** en 3 niveaux de garde-fous |
 
-### Sécurité système et vérification formelle
+### Sécurité système, réseau et vérification formelle
 
 | Projet | Ce qu'il fait | Résultat clé |
 |---|---|---|
 | [**cve-to-policy**](https://github.com/FatimaZahraRH/cve-to-policy) | À partir d'une CVE, observe le conteneur par eBPF et fait générer par un LLM une politique Tetragon qui bloque l'exploit, avec boucle de validation | Boucle génération → validation → correction fonctionnelle avec un vrai LLM |
 | [**rocq-proof-agent**](https://github.com/FatimaZahraRH/rocq-proof-agent) | Un LLM propose des preuves formelles de propriétés de sécurité mémoire, Rocq les vérifie et renvoie l'erreur au LLM | Isolation mémoire : **0/11 → 7/11** théorèmes prouvés |
+| [**network-microsegmentation**](https://github.com/FatimaZahraRH/network-microsegmentation) | Micro-segmentation réseau adaptative à la criticité des actifs, règles de pare-feu au port près, validée en rejouant une capture `.pcap` | **6/6** mouvements latéraux bloqués, **40/40** flux métier préservés |
 
 ### Vulnérabilités, données et conformité
 
